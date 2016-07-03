@@ -50,7 +50,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(205, 209);
+            this.button1.Location = new System.Drawing.Point(212, 209);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(90, 21);
             this.button1.TabIndex = 1;
@@ -84,11 +84,11 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(64, 158);
+            this.label2.Location = new System.Drawing.Point(67, 162);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(171, 19);
+            this.label2.Size = new System.Drawing.Size(162, 19);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Develope By Mr.SPi";
+            this.label2.Text = "Develope By SPi01";
             // 
             // Form1
             // 
